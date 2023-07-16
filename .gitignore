@@ -5,6 +5,7 @@
 *.cmi
 *.cmo
 *.cmx
+1
 *.cmxa
 *.cmxs
 *.glob
